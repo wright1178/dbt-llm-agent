@@ -1,0 +1,5 @@
+[project]
+name = "dbt-llm-agent"
+version = "0.1.0"
+description = "LLM based AI Agent to automate Data Analysis for dbt projects with remote MCP server"
+requires-python = ">=3.10"
